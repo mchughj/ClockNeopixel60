@@ -1,9 +1,9 @@
 ClockNeopixel60
 ===============
 
-An Arduino (Trinket - ATTiny85 and Uno)  clock project that uses a 60 neopixel ring
+An Arduino (ATTiny85 and ATmega328) clock project that uses a 60 neopixel ring.
 
-This is the 60 pixel neopixel clock program written by Jason McHugh.  Feel free to drop me a line at mchughj@gmail.com for questions, comments, criticisms, concerns, etc.  :)
+This is the 60 pixel neopixel clock program written by Jason McHugh.  Feel free to drop me a line at mchughj@gmail.com for questions, comments, criticisms, concerns, etc.  :)  I've included here the sketches used as well as a Fritzing circuit diagram (both .fzz and .png forms).
 
 The backstory.
 
